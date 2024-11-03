@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  border: none;
+}
+.image {
+  width: 30%;
+  height: 400px;
+}
+.active {
+  display: block;
+}
+.notactive {
+  display: none;
+}
